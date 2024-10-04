@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+DuskDiver2/Client/bin/Resources/*
+DuskDiver2/Client/Data/*
